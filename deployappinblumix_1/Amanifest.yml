@@ -1,0 +1,11 @@
+---
+
+applications:
+
+- name : miejercicio
+
+  instances : 1
+
+  memory : 256M
+  services:
+   - Internet of Things Platform-vj

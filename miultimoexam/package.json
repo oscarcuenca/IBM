@@ -1,0 +1,17 @@
+{
+  "name": "miultimoexam",
+  "version": "1.0.0",
+  "description": "This is the skeleton for Lesson 4. Please base your solution on the provided structure. Note that for npm packages, the grader will not install new packages --- you are limited to the ones already listed in package.json:",
+  "main": "server.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cfenv": "1.0.3",
+    "express": "^4.15.3",
+    "ibmiotf": "0.2.11"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "devDependencies": {}
+}
